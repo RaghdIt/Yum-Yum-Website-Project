@@ -49,8 +49,9 @@ This project helped in understanding:
 - **Technologies:** HTML, CSS, JavaScript
 
 ---
+
 ## Live Demo
-🔗 https://raghdit.github.io/Yum-Yum-Website-Project/
+[View the website](https://raghdit.github.io/Yum-Yum-Website-Project/)
 
 ---
 ## Notes
