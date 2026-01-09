@@ -51,7 +51,7 @@ This project helped in understanding:
 ---
 
 ## Live Demo
-[View the website](https://raghdit.github.io/Yum-Yum-Website-Project/)
+🔗 https://raghdit.github.io/Yum-Yum-Website-Project/
 
 ---
 ## Notes
