@@ -3,7 +3,6 @@
 
 This project was developed as part of the **IT-312: Web Applications Engineering** course.  
 The goal of the project is to practice and apply the basics of **front-end web development** using HTML, CSS, and JavaScript.
-
 ---
 
 ## Project Description
@@ -50,6 +49,9 @@ This project helped in understanding:
 - **Technologies:** HTML, CSS, JavaScript
 
 ---
+## Live Demo
+🔗 https://raghdit.github.io/Yum-Yum-Website-Project/
 
+---
 ## Notes
 This project is developed for educational purposes as part of the IT-312 course requirements.
